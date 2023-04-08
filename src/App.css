@@ -1,0 +1,29 @@
+.navbar{
+  background-color: #000;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+.navbar .container-fluid{
+  width: 80%;
+  margin: auto;
+}
+.navbar a{
+  color: #198754;
+}
+.navbar ul li .nav-link{
+  color: #fff;
+}
+.text-box h1{
+  color: #198754;
+}
+.summary-data{
+  background-color: #198754;
+  margin-top: 3rem;
+  padding: 1rem;
+}
+.summary-data h1, .summary-data p{
+  color: #fff;
+}
+.text-box button{
+  background-color: #198754;
+}
